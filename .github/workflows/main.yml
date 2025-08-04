@@ -45,4 +45,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/devops-task-1:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}satheesh2003/devops-task-1:latest
