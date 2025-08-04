@@ -48,6 +48,3 @@ docker pull satheesh2003/devops-task-1:latest
 docker run -p 3000:3000 satheesh2003/devops-task-1:latest
 
 Then open: http://localhost:3000
-
-<img width="1913" height="913" alt="Screenshot 2025-08-04 195338" src="https://github.com/user-attachments/assets/97d49284-e892-4d27-b082-98cb8d7b7abc" />
-
