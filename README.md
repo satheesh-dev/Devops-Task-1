@@ -47,3 +47,5 @@ To pull and run the image:
 docker pull satheesh2003/devops-task-1:latest
 docker run -p 3000:3000 satheesh2003/devops-task-1:latest
 
+Then open: http://localhost:3000
+
