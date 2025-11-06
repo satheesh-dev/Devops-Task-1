@@ -1,6 +1,6 @@
 # DevOps Task 1 – CI/CD Pipeline with GitHub Actions & Docker
 
-This project is a demonstration of a basic CI/CD pipeline using **GitHub Actions** and **DockerHub**. It includes a simple Node.js web server and automates the testing, building, and deployment of the app as a Docker image.
+This project is a demonstration of a basic CI/CD pipeline using **GitHub Actions** and **DockerHub**. It includes a simple Node.js web server and automates the testing, building, and deployment of the app as a Docker image
 
 ---
 
